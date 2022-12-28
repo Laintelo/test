@@ -1,2 +1,2 @@
 # test
-Apprendre les base de git
+Apprendre les base de git.
